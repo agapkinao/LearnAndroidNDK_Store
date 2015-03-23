@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Store</string>
+    <string name="key">Ключ</string>
+    <string name="value">Значение</string>
+    <string name="type">Тип</string>
+    <string name="welcome_msg">Введите или получите значение из хранилища</string>
+    <string name="get_value">Получить</string>
+    <string name="set_value">Присвоить</string>
+    <string name="format_error">Значение не соответсвует выбранному типу</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="holder for library settings">
+
+</language>
+<language name="Assembly">
+<includepath>${env_var:ANDROID_NDK}\platforms\android-17\arch-arm\usr\include</includepath>
+<includepath>${env_var:ANDROID_NDK}\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\lib\gcc\arm-linux-androideabi\4.9\include</includepath>
+
+</language>
+<language name="GNU C++">
+<includepath>${env_var:ANDROID_NDK}\platforms\android-17\arch-arm\usr\include</includepath>
+<includepath>${env_var:ANDROID_NDK}\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\lib\gcc\arm-linux-androideabi\4.9\include</includepath>
+
+</language>
+<language name="GNU C">
+<includepath>${env_var:ANDROID_NDK}\platforms\android-17\arch-arm\usr\include</includepath>
+<includepath>${env_var:ANDROID_NDK}\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\lib\gcc\arm-linux-androideabi\4.9\include</includepath>
+
+</language>
+</section>
+</cdtprojectproperties>
